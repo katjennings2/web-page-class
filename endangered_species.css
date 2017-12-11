@@ -1,0 +1,27 @@
+/*
+* Kat Jennings
+* 12/11/17
+* Endangered Species Page
+*/
+
+
+/* The universal selector */
+
+* {margin: 0;
+padding: 0;}
+
+/* Put body attributes here */
+
+body {width: 950px;
+	margin: auto;}
+/* h1 styling */ 
+h1 {font-size: 250%;
+	text-align: center;
+	border: 3px solid pink;
+	color: #008084;}
+/* all images float and margins */
+img {float:left;
+	margin: 10;}
+h2 {color: #840048;}
+
+
